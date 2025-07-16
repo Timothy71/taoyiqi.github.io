@@ -26,5 +26,12 @@ redirect_from:
 
 + **T. Qi**, C. Ye, Y. Zhao, L. Li and Y. Ding, "[Deep Reinforcement Learning Based Charging Scheduling for Household Electric Vehicles in Active Distribution Network](https://ieeexplore.ieee.org/abstract/document/10053681)," *Journal of Modern Power Systems and Clean Energy*, vol. 11, no. 6, pp. 1890-1901, Nov. 2023. [PDF](/file/paper.pdf)
 
++ Y. Sun, **T. Qi**, Y. Zhao, C. Ye and H. Hui, “[Siting and sizing of electric vehicle charging stations under the coupling of transport and power networks considering V2G potential](https://www.hdpower.net/CN/10.3969/j.issn.2097-0706.2024.01.001),” *Integrated Intelligent Energy*, vol. 46, no. 1, Jan. 2024.  
+  孙雨乐, **漆淘懿**, 赵宇明, 叶承晋, 惠红勋. 路网耦合下计及电动汽车V2G潜力的充电站选址定容研究. *综合智慧能源*, 2024, 46(1): 1-10. [2023综合智慧能源大会优秀论文一等奖] [PDF](/file/paper.pdf)
+
++ C. Zhang, B. Gao, **T. Qi**, W. Qian, and C. Feng. "[Modelling and control of virtual energy storage based on the inverter air conditioner](https://jepst.researchcommons.org/journal/vol38/iss4/26/)" *Journal of Electric Power Science and Technology*, vol. 38. no. 04, pp. 240-249.
+  张冲标, 高博, **漆淘懿**, 钱伟杰, 冯超. 基于变频空调的虚拟储能建模与控制.*电力科学与技术学报*, 2023, 38(04): 240-249. [PDF](/file/paper.pdf)
+
+
 
 
