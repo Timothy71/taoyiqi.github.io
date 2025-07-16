@@ -11,8 +11,26 @@ author_profile: true
 
 {% include base_path %}
 
-Journals  
-+ **T. Qi**, H. Hui and Y. Song, "[Exploring the Feasible Regulation Region of Building HVAC Systems Within Hygro-Thermal Comfort](https://ieeexplore.ieee.org/abstract/document/11006322)," *IEEE Transactions on Smart Grid*, vol. 16, no. 4, pp. 2926-2939, July 2025.[PDF](taoyiqi.github.io/files/paper1.pdf) 
+<!-- New style rendering if publication categories are defined -->
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
 
 
 
