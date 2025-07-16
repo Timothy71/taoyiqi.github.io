@@ -13,7 +13,7 @@ title                    : "Taoyi Qi"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://timothy71.github.io/taoyiqi.github.io
+url                      : #https://timothy71.github.io/taoyiqi.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
