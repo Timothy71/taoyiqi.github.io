@@ -17,9 +17,12 @@ Research Interests
 
 Education
 ======
-+ 09/2016-06/2020  Bachelor  Zhejiang University  Supervisor: Prof. [Yi Ding](https://person.zju.edu.cn/110)
-+ 09/2020-03/2023  Master    Zhejiang Univeristy  Supervisor: Prof. [Yi Ding](https://person.zju.edu.cn/110) & Prof. [Chengjin Ye](https://person.zju.edu.cn/0617209#826698)
-+ 08/2023-present  Ph.D.     University of Macau  Supervisor: Prof. [Yonghua Song](https://rto.um.edu.mo/biography/) & Prof. [Hongxun Hui](https://www.fst.um.edu.mo/people/hongxunhui/)
++ 09/2016-06/2020
+  Bachelor  Zhejiang University  Supervisor: Prof. [Yi Ding](https://person.zju.edu.cn/110)
++ 09/2020-03/2023
+  Master    Zhejiang Univeristy  Supervisor: Prof. [Yi Ding](https://person.zju.edu.cn/110) & Prof. [Chengjin Ye](https://person.zju.edu.cn/0617209#826698)
++ 08/2023-present
+  Ph.D.     University of Macau  Supervisor: Prof. [Yonghua Song](https://rto.um.edu.mo/biography/) & Prof. [Hongxun Hui](https://www.fst.um.edu.mo/people/hongxunhui/)
 
 News
 ======
