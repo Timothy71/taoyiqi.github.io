@@ -23,13 +23,13 @@ repository               : "timothy71.github.io/taoyiqi.github.io"
 author:
   # Biographic information
   avatar           : "photo.png"
-  name             : "Your Sidebar Name"
+  name             : "Welcome to my personal site"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "State Key Laborotary of Internet of Things for Smart City, University of Macau. 智慧城市物联网国家重点实验室，澳门大学"
+  location         : "Macao, China"
+  employer         : "University of Macau"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "taoyi.qi@connect.um.edu.mo" 
 
   # Academic websites
   academia         : # URL
