@@ -35,11 +35,11 @@ redirect_from:
 + Y. Sun, **T. Qi***, L. Zhang, Y. Hu, C. Yu, "[Optimal Operation of Integrated Energy System Including Ice-Storage Air-Conditioning in Power Market](https://nfdwjs.csg.cn/gateway-web/zh/manuscriptDetail.html?serialNum=20220411&journalId=145)," *Southern Power System Technology*, vol. 16, no. 04, pp. 95-104.[PDF](/file/paper.pdf)  
   孙轶恺,**漆淘懿***, 张利军, 胡怡霜, 俞楚天. 市场环境下含冰蓄冷空调的综合能源系统优化运行. 南方电网技术, 2022, 16(04): 95-104.
 
-+ **T. Qi**, C. Zhang, C. Ye, P. He, Y. Ding, C. Zhu, and W. Bao, "[Complementary Energy Storage Operation Strategy of Battery and Inverter Air Conditioners for Buildings With Integrated Photovoltaic System](http://ntps.epri.sgcc.com.cn/dwjs/CN/10.13335/j.1000-3673.pst.2021.2019)," *Power System Technology* vol. 46, no. 11, pp. 4247-4255.[PDF](/file/paper.pdf)
++ **T. Qi**, C. Zhang, C. Ye, P. He, Y. Ding, C. Zhu, and W. Bao, "[Complementary Energy Storage Operation Strategy of Battery and Inverter Air Conditioners for Buildings With Integrated Photovoltaic System](http://ntps.epri.sgcc.com.cn/dwjs/CN/10.13335/j.1000-3673.pst.2021.2019)," *Power System Technology* vol. 46, no. 11, pp. 4247-4255, Jan. 2022.[PDF](/file/paper.pdf)
   **漆淘懿**, 郑朝明, 叶承晋, 贺沛宇, 丁一, 朱超, 鲍卫东. 面向光伏一体化楼宇的电池-变频空调复合储能运行控制策略研究. *电网技术*, 2022, 46(11): 4247-4255.
 
-+ **T. Qi**, H. Hui, L. Xu, X. Ma, and Y. Ding, "[Modeling and Control of Generalized Demand Response in Micro-grids Based on GridLAB-D](https://gydi.cbpt.cnki.net/WKD3/WebPublication/paperDigest.aspx?paperID=e2e6f885-f09e-4a18-a0a0-ea1813b88f9f)," *Distribution & Utilization*, vol.37, no. 07, pp. 3-10. [PDF](/file/paper.pdf)
-  **漆淘懿**,惠红勋,徐立中, 马翔, 丁一. 基于GridLAB-D的微电网广义需求响应建模与控制. *供用电* , 2020, 37(07): 3-10.
++ **T. Qi**, H. Hui, L. Xu, X. Ma, and Y. Ding, "[Modeling and Control of Generalized Demand Response in Micro-grids Based on GridLAB-D](https://gydi.cbpt.cnki.net/WKD3/WebPublication/paperDigest.aspx?paperID=e2e6f885-f09e-4a18-a0a0-ea1813b88f9f)," *Distribution & Utilization*, vol. 37, no. 07, pp. 3-10, July 2020. [PDF](/file/paper.pdf)
+  **漆淘懿**, 惠红勋, 徐立中, 马翔, 丁一. 基于GridLAB-D的微电网广义需求响应建模与控制. *供用电* , 2020, 37(07): 3-10.
 
 
 
