@@ -24,9 +24,6 @@ Education Experience
 + 08/2023-present, University of Macau  
   Ph.D.,    Supervisor: Prof. [Yonghua Song](https://rto.um.edu.mo/biography/) & Prof. [Hongxun Hui](https://www.fst.um.edu.mo/people/hongxunhui/)
 
-News
-======
-
 
 
 
