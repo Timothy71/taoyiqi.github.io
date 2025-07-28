@@ -20,9 +20,9 @@ redirect_from:
 
 **Journal Reviewers**
 ======
-IEEE Trans. on Power Systems, IEEE Trans. on Smart Grid
-Applied Energy, Energy
-Protection and Control of Modern Power Systems
-Scientific Reports
-Engineering Reports
+IEEE Trans. on Power Systems, IEEE Trans. on Smart Grid  
+Applied Energy, Energy  
+Protection and Control of Modern Power Systems  
+Scientific Reports  
+Engineering Reports  
 
