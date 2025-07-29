@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Taoyi Qi is a PhD candidate with the State Key Laboratory of Internet of Things for Smart City, University of Macau, supervised by Prof. Yonghua Song and co-supervised by Prof. Hongxun Hui. Previously, he recieved the B.E. and M.E. degrees in electrical engineering from Zhejiang University, Hangzhou, China, in 2020 and 2023, respectively.
+Taoyi Qi is a Ph.D. candidate with the State Key Laboratory of Internet of Things for Smart City, University of Macau, supervised by Prof. Yonghua Song and co-supervised by Prof. Hongxun Hui. Previously, he recieved the B.E. and M.E. degrees in electrical engineering from Zhejiang University, Hangzhou, China, in 2020 and 2023, respectively.
 
 Research Interests
 ======
@@ -23,6 +23,11 @@ Education Experience
   Master,   Supervisor: Prof. [Yi Ding](https://person.zju.edu.cn/110) & Prof. [Chengjin Ye](https://person.zju.edu.cn/0617209#0)
 + 08/2023-present, University of Macau  
   Ph.D.,    Supervisor: Prof. [Yonghua Song](https://rto.um.edu.mo/biography/) & Prof. [Hongxun Hui](https://www.fst.um.edu.mo/people/hongxunhui/)
+
+Part-time Academic Contributions
+=====
++ Section Co-Lead for IEEEXtream 18.0, 2025.
++ Vice Chair, IEEE 7th Student Conference on Electric Machines and Systems (SCEMS), 2024.
 
 
 
