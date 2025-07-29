@@ -13,7 +13,7 @@ Key Projects
 -----
 + Demand Response Capacity Evaluation and Optimal Operation of Building Air Conditionings in Guangdong-Hong Kong-Macao Greater Bay Area under High Temperature and Humidity Conditions (2025-2026), supported by Natural Science Foundation of China, 524B2100, Priciple Investigator (**PI**).  
   高温高湿环境下大湾区建筑空调电力需求响应容量评估及优化运行研究, 国家自然科学基金(青年学生基础研究项目(博士研究生)), 2025-01至2026-12, **项目负责人**.
-+ Research on Key Technologies and Applications of Intelligent Collaborative Management and Protection for Integrated Energy Internet of Things (2021-2024), supported by the Science and Technology Development Fund, Macao, 0003/2020/AKP.
++ Research on Key Technologies and Applications of Intelligent Collaborative Management and Protection for Integrated Energy Internet of Things (2021-2024), supported by the Science and Technology Development Fund, Macao, 0003/2020/AKP.  
   综合能源物联网的智能协同管控与防护关键技术及应用研究, 澳门科学技术发展基金, 澳门科学技术发展基金重点研发专项资助计划, 2021-10至2024-10, 参与.
 + Key Technologies for Flexible Resource Evaluation and Interaction in Urban Power Grids Based on Internet of Things under the Dual Carbon Goals (2021-2024), supported by key science and technology project of China Southern Power Grid Corporation, 090000KK52210176.  
   双碳目标下基于物联网的城市电网灵活资源评估与互动关键技术, 南方电网重点科技项目, 2021-12至2024-12, 学生主研.
