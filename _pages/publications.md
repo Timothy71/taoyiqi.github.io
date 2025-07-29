@@ -30,11 +30,11 @@ redirect_from:
 + Y. Sun, **T. Qi**, Y. Zhao, C. Ye, and H. Hui, “[Siting and sizing of electric vehicle charging stations under the coupling of transport and power networks considering V2G potential](https://www.hdpower.net/CN/10.3969/j.issn.2097-0706.2024.01.001),” *Integrated Intelligent Energy*, vol. 46, no. 1, Jan. 2024.  
   孙雨乐, **漆淘懿**, 赵宇明, 叶承晋, 惠红勋. 路网耦合下计及电动汽车V2G潜力的充电站选址定容研究. *综合智慧能源*, 2024, 46(1): 1-10. [2023综合智慧能源大会优秀论文一等奖]
 
-+ C. Zhang, B. Gao, **T. Qi***, W. Qian, and C. Feng. "[Modelling and control of virtual energy storage based on the inverter air conditioner](https://jepst.researchcommons.org/journal/vol38/iss4/26/)" *Journal of Electric Power Science and Technology*, vol. 38. no. 04, pp. 240-249.  
-  张冲标, 高博, **漆淘懿***, 钱伟杰, 冯超. 基于变频空调的虚拟储能建模与控制.*电力科学与技术学报*, 2023, 38(04): 240-249. 
++ C. Zhang, B. Gao, __T. Qi*__, W. Qian, and C. Feng. "[Modelling and control of virtual energy storage based on the inverter air conditioner](https://jepst.researchcommons.org/journal/vol38/iss4/26/)" *Journal of Electric Power Science and Technology*, vol. 38. no. 04, pp. 240-249.  
+  张冲标, 高博, __漆淘懿*__, 钱伟杰, 冯超. 基于变频空调的虚拟储能建模与控制.*电力科学与技术学报*, 2023, 38(04): 240-249. 
 
-+ Y. Sun, **T. Qi***, L. Zhang, Y. Hu, and C. Yu, "[Optimal Operation of Integrated Energy System Including Ice-Storage Air-Conditioning in Power Market](https://nfdwjs.csg.cn/gateway-web/zh/manuscriptDetail.html?serialNum=20220411&journalId=145)," *Southern Power System Technology*, vol. 16, no. 04, pp. 95-104.  
-  孙轶恺, **漆淘懿***, 张利军, 胡怡霜, 俞楚天. 市场环境下含冰蓄冷空调的综合能源系统优化运行. 南方电网技术, 2022, 16(04): 95-104.
++ Y. Sun, __T. Qi*__, L. Zhang, Y. Hu, and C. Yu, "[Optimal Operation of Integrated Energy System Including Ice-Storage Air-Conditioning in Power Market](https://nfdwjs.csg.cn/gateway-web/zh/manuscriptDetail.html?serialNum=20220411&journalId=145)," *Southern Power System Technology*, vol. 16, no. 04, pp. 95-104.  
+  孙轶恺, __漆淘懿*__, 张利军, 胡怡霜, 俞楚天. 市场环境下含冰蓄冷空调的综合能源系统优化运行. 南方电网技术, 2022, 16(04): 95-104.
 
 + **T. Qi**, C. Zhang, C. Ye, P. He, Y. Ding, C. Zhu, and W. Bao, "[Complementary Energy Storage Operation Strategy of Battery and Inverter Air Conditioners for Buildings With Integrated Photovoltaic System](http://ntps.epri.sgcc.com.cn/dwjs/CN/10.13335/j.1000-3673.pst.2021.2019)," *Power System Technology* vol. 46, no. 11, pp. 4247-4255, Jan. 2022.  
   **漆淘懿**, 郑朝明, 叶承晋, 贺沛宇, 丁一, 朱超, 鲍卫东. 面向光伏一体化楼宇的电池-变频空调复合储能运行控制策略研究. *电网技术*, 2022, 46(11): 4247-4255.
