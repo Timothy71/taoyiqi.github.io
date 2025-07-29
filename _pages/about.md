@@ -17,12 +17,12 @@ Research Interests
 
 Education Experience
 ======
-+ 09/2016-06/2020, Zhejiang University  
-  Bachelor, Supervisor: Prof. [Yi Ding](https://person.zju.edu.cn/110)
-+ 09/2020-03/2023, Zhejiang Univeristy  
-  Master,   Supervisor: Prof. [Yi Ding](https://person.zju.edu.cn/110) & Prof. [Chengjin Ye](https://person.zju.edu.cn/0617209#0)
-+ 08/2023-present, University of Macau  
-  Ph.D.,    Supervisor: Prof. [Yonghua Song](https://rto.um.edu.mo/biography/) & Prof. [Hongxun Hui](https://www.fst.um.edu.mo/people/hongxunhui/)
++ **09/2016-06/2020, Zhejiang University**  
+  Bachelor in Electrical Engineering, Supervised by Prof. [Yi Ding](https://person.zju.edu.cn/110)
++ **09/2020-03/2023, Zhejiang Univeristy**  
+  Master in Electrical Engineering, Supervised by Prof. [Yi Ding](https://person.zju.edu.cn/110) & Prof. [Chengjin Ye](https://person.zju.edu.cn/0617209#0)
++ **08/2023-present, University of Macau**  
+  Ph.D. in Electrical and Computer Engineering, Supervised by Prof. [Yonghua Song](https://rto.um.edu.mo/biography/) & Prof. [Hongxun Hui](https://www.fst.um.edu.mo/people/hongxunhui/)
 
 Part-time Academic Contributions
 =====
