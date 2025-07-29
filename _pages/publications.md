@@ -23,7 +23,7 @@ redirect_from:
 
 + **T. Qi**, C. Ye, H. Hui, and Y. Zhao, "[Fast Frequency Regulation Utilizing Non-Aggregate Thermostatically Controlled Loads Based on Edge Intelligent Terminals](https://ieeexplore.ieee.org/abstract/document/10373582)," *IEEE Transactions on Smart Grid*, vol. 15, no. 4, pp. 3571-3584, July 2024.
 
-+ Y. Sun, H. Hui, **T. Qi**, and L. Chen, "[Multitime Scale Optimization of Urban Micro-Grids Considering High Penetration of PVs and Heterogeneous Energy Storage Systems](https://ieeexplore.ieee.org/abstract/document/10400788)," *IEEE Internet of Things Journal*, vol. 11, no. 14, pp. 24428-24438, 15 July15, 2024.
++ Y. Sun, H. Hui, **T. Qi**, and L. Chen, "[Multitime Scale Optimization of Urban Micro-Grids Considering High Penetration of PVs and Heterogeneous Energy Storage Systems](https://ieeexplore.ieee.org/abstract/document/10400788)," *IEEE Internet of Things Journal*, vol. 11, no. 14, pp. 24428-24438, July, 2024.
 
 + **T. Qi**, C. Ye, Y. Zhao, L. Li, and Y. Ding, "[Deep Reinforcement Learning Based Charging Scheduling for Household Electric Vehicles in Active Distribution Network](https://ieeexplore.ieee.org/abstract/document/10053681)," *Journal of Modern Power Systems and Clean Energy*, vol. 11, no. 6, pp. 1890-1901, Nov. 2023.
 
