@@ -44,9 +44,14 @@ Standard Contributor
 
 Patents
 -----
-+ 丁一, **漆淘懿**, 俞鸿飞, 欧阳欣愉, 钟奕楠, 季尚进; 一种多渠道的碳排放量综合监测方法, 2025-07-08, 中国, ZL202210811684.8.
-+ 叶承晋, **漆淘懿**, 丁一, 宋永华, 方攸同; 基于变频空调和储能电池的复合储能控制方法, 2025-02-14, 中国, ZL202111412665.X.
-+ 朱炳铨, 徐立中, **漆淘懿**, 郑翔, 蒙志全, 杨侃, 金学奇, 尹逊虎, 丁一; 一种需求侧负荷资源参与电网供需互动的优化方法, 2024-07-05, 中国, ZL202210220164.X.
-+ 朱炳铨, 谷炜, 项中明, 吴华华, 苏宜靖, 陆梦可, 阙凌燕, 崔建业, 马翔, 吕磊炎, 方璇, 黄剑峰, 刘东红, 吴敏敏, 姚剑峰, **漆淘懿**, 谢康, 丁一; 一种变频空调与储能电池联合的辅助服务方法及系统, 2022-07-26, 中国, ZL202110597127.6.
-+ 孔唯洁, 翁婉莹, **漆淘懿**, 杨怿恒, 李泺秋, 李想, 孟濬; 一种视力预防监测并具备视力训练功能的穿戴设备, 2020-07-28, 中国, CN201910304933.2.
++ Ding Yi, **Qi Taoyi**, Yu Hongfei, Ouyang Xinyu, Zhong Yinan, Ji Shangjin; A Multi-channel Integrated Monitoring Method for Carbon Emissions, July 8, 2025, China, ZL202210811684.8.  
+  丁一, **漆淘懿**, 俞鸿飞, 欧阳欣愉, 钟奕楠, 季尚进; 一种多渠道的碳排放量综合监测方法, 2025-07-08, 中国, ZL202210811684.8.
++ Ye Chengjin, **Qi Taoyi**, Ding Yi, Song Yonghua, Fang Youtong; Composite Energy Storage Control Method Based on Inverter Air Conditioner and Energy Storage Battery, February 14, 2025, China, ZL202111412665.X.  
+  叶承晋, **漆淘懿**, 丁一, 宋永华, 方攸同; 基于变频空调和储能电池的复合储能控制方法, 2025-02-14, 中国, ZL202111412665.X.
++ Zhu Bingquan, Xu Lizhong, **Qi Taoyi**, Zheng Xiang, Meng Zhiquan, Yang Kan, Jin Xueqi, Yin Xunhu, Ding Yi; Optimal Method for Demand-side Load Resources Participation in Grid Supply-Demand Interaction, July 5, 2024, China, ZL202210220164.X.  
+  朱炳铨, 徐立中, **漆淘懿**, 郑翔, 蒙志全, 杨侃, 金学奇, 尹逊虎, 丁一; 一种需求侧负荷资源参与电网供需互动的优化方法, 2024-07-05, 中国, ZL202210220164.X.
++ Zhu Bingquan, Gu Wei, Xiang Zhongming, Wu Huahua, Su Yijing, Lu Mengke, Que Lingyan, Cui Jianye, Ma Xiang, Lü Leiyan, Fang Xuan, Huang Jianfeng, Liu Donghong, Wu Minmin, Yao Jianfeng, **Qi Taoyi**, Xie Kang, Ding Yi; Ancillary Service Method and System Combining Inverter Air Conditioner with Energy Storage Battery, July 26, 2022, China, ZL202110597127.6.  
+  朱炳铨, 谷炜, 项中明, 吴华华, 苏宜靖, 陆梦可, 阙凌燕, 崔建业, 马翔, 吕磊炎, 方璇, 黄剑峰, 刘东红, 吴敏敏, 姚剑峰, **漆淘懿**, 谢康, 丁一; 一种变频空调与储能电池联合的辅助服务方法及系统, 2022-07-26, 中国, ZL202110597127.6.
++ Kong Weijie, Weng Wanying, **Qi Taoyi**, Yang Yiheng, Li Luoqiu, Li Xiang, Meng Jun; Wearable Device with Preventive Vision Monitoring and Vision Training Function, July 28, 2020, China, CN201910304933.2.  
+  孔唯洁, 翁婉莹, **漆淘懿**, 杨怿恒, 李泺秋, 李想, 孟濬; 一种视力预防监测并具备视力训练功能的穿戴设备, 2020-07-28, 中国, CN201910304933.2.
 
