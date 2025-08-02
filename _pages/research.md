@@ -37,6 +37,11 @@ Other Projects
 + Research on Key Technologies and Business Models of Large-scale Load Resources Participating in Demand Response (2020-2022), supported by State Grid Zhejiang Electric Power Co., Ltd., 5211JH1900M7.  
   大规模负荷资源参与需求响应的关键技术与商业模式研究, 国网浙江省电力公司, 2020-05至2022-12, 学生主研.
 
+Standard Contributor
+-----
++ Technical Specfications for Demand Side Management in Public Buildings (公共建筑电力需求侧管理系统技术标准(征求意见稿))
++ Standard for Assessment of Load Flexibility Performance of Building Air Conditioning (建筑空调负荷柔性调节性能评价标准(征求意见稿))
+
 Patents
 -----
 + 丁一, **漆淘懿**, 俞鸿飞, 欧阳欣愉, 钟奕楠, 季尚进; 一种多渠道的碳排放量综合监测方法, 2025-07-08, 中国, ZL202210811684.8.
