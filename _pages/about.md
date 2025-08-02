@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 Taoyi Qi is a Ph.D. candidate with the State Key Laboratory of Internet of Things for Smart City, University of Macau, supervised by Prof. Yonghua Song and co-supervised by Prof. Hongxun Hui. Previously, he recieved the B.E. and M.E. degrees in electrical engineering from Zhejiang University, Hangzhou, China, in 2020 and 2023, respectively.
-
-Here are my CVs in [English](../files/CV_in_English.pdf) and in [Chinese](https://github.com/Timothy71/taoyiqi.github.io/blob/master/files/CV_in_Chinese.pdf), respecitively.
+#Here are my CVs in [English](../files/CV_in_English.pdf) and in [Chinese](https://github.com/Timothy71/taoyiqi.github.io/blob/master/files/CV_in_Chinese.pdf), respecitively.
 
 Research Interests
 ======
