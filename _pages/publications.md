@@ -18,7 +18,7 @@ Journal Papers
   
 + **T. Qi**, H. Hui, and Y. Song, “[Chance Constrained Economic Dispatch of Central Air Conditionings in Large-Scale Commercial Buildings Considering Demand Response](https://www.sciencedirect.com/science/article/abs/pii/S0378778824007230),” *Energy and Buildings*, vol. 320, p. 114607, Oct. 2024.
 
-+ **T. Qi**, H. Hui, C. Ye, Y. Ding, Y. Zhao, and Y. Song, "[Bidding Mechanism Design for Building Virtual Power Plant to Participate in Demand Response Markets](http://www.aeps-info.com/aeps/article/abstract/20240313002?st=search)"，*Automation of Electric Power System*, vol. 48, no. 18, pp. 14-24, Oct. 2024.  
++ **T. Qi**, H. Hui, C. Ye, Y. Ding, Y. Zhao, and Y. Song, "[Bidding Mechanism Design for Building Virtual Power Plant to Participate in Demand Response Markets](http://www.aeps-info.com/aeps/article/abstract/20240313002?st=search)", *Automation of Electric Power System*, vol. 48, no. 18, pp. 14-24, Oct. 2024.  
   **漆淘懿**, 惠红勋, 叶承晋, 丁一, 赵宇明, 宋永华. 建筑虚拟电厂参与需求响应市场的报量报价机制设计. *电力系统自动化*, 2024, 48(18): 14-24.
 
 + **T. Qi**, C. Ye, H. Hui, and Y. Zhao, "[Fast Frequency Regulation Utilizing Non-Aggregate Thermostatically Controlled Loads Based on Edge Intelligent Terminals](https://ieeexplore.ieee.org/abstract/document/10373582)," *IEEE Transactions on Smart Grid*, vol. 15, no. 4, pp. 3571-3584, July 2024.
