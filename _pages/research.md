@@ -30,7 +30,7 @@ Other Projects
   高比例电网友好型零碳建筑群接入条件下城市电网调度和规划关键技术, 南方电网重点科技项目, 2022-06至2024-09, 学生主研.
 + Research on Key Technologies of Virtual Energy Storage Control in Distribution Network for Power Systems (2021-2022), supported by State Grid Zhejiang Electric Power Co., Ltd., 5211JX190065.  
   面向新型电力系统的配电网虚拟储能控制关键技术研究, 国网浙江省电力公司, 2021-10至2022-10, 学生主研.
-+ Research on Key Technologies and Business Models of Demand-side Resource Cluster Response in the Ubiquitous Power Internet of Things Environment (2020-2021), supported by key science and technology project of China Southern Power Grid Corporation, 5211JY19000V.  
++ Research on Key Technologies and Business Models of Demand-side Resource Cluster Response in the Ubiquitous Power Internet of Things Environment (2020-2021), supported by State Grid Zhejiang Electric Power Co., Ltd., 5211JY19000V.  
   需求侧资源集群响应顶层设计、实现技术和商业模式研究, 国网浙江省电力公司, 2020-06至2021-11, 参与.
 + Research on Demand Response Technology of Massive Residential Users based on Data-driven Highly Elastic Power Grid (2021), supported by State Grid Zhejiang Electric Power Co., Ltd., 5211YF200055.  
   基于数据驱动的高弹性电网海量居民用户需求响应技术研究, 国网浙江省电力公司, 2021-01至2021-12, 参与.
