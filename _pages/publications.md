@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Journal Papers**
+Journal Papers
 -----
 + **T. Qi**, H. Hui, and Y. Song, "[Exploring the Feasible Regulation Region of Building HVAC Systems Within Hygro-Thermal Comfort](https://ieeexplore.ieee.org/abstract/document/11006322)," *IEEE Transactions on Smart Grid*, vol. 16, no. 4, pp. 2926-2939, July 2025.
 
@@ -42,13 +42,19 @@ redirect_from:
 + **T. Qi**, H. Hui, L. Xu, X. Ma, and Y. Ding, "[Modeling and Control of Generalized Demand Response in Micro-grids Based on GridLAB-D](https://gydi.cbpt.cnki.net/WKD3/WebPublication/paperDigest.aspx?paperID=e2e6f885-f09e-4a18-a0a0-ea1813b88f9f)," *Distribution & Utilization*, vol. 37, no. 07, pp. 3-10, July 2020.  
   **漆淘懿**, 惠红勋, 徐立中, 马翔, 丁一. 基于GridLAB-D的微电网广义需求响应建模与控制. *供用电* , 2020, 37(07): 3-10.
 
-**Conference Papers**
+Conference Papers
 -----
 + **T. Qi**, H. Hui, and L. Gao, "Enhancing Power System Frequency Resilience to Extreme Weather through Photovoltaics and Integrated Flexible Direct Current Buildings," *Applied Energy Symposium and Forum: Low-Carbon Cities and Urban Energy Systems (CUE 2025)*, Kitakyusu, Japan, 2025.
 
 + **T. Qi** and H. Hui, "[Bidding Mechanism of Aggregated Buildings with Various Flexible Loads Participating in Demand Response Market](https://ieeexplore.ieee.org/abstract/document/10513042)," *2023 IEEE 7th Conference on Energy Internet and Energy System Integration (EI2)*, Hangzhou, China, 2023, pp. 4391-4397.
 
-
+Journal Reviewers
+-----
+IEEE Trans. on Power Systems, IEEE Trans. on Smart Grid  
+Applied Energy, Energy  
+Protection and Control of Modern Power Systems  
+Scientific Reports  
+Engineering Reports  
 
 
 
