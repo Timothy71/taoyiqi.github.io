@@ -37,11 +37,11 @@ Other Projects
 + Research on Key Technologies and Business Models of Large-scale Load Resources Participating in Demand Response (2020-2022), supported by State Grid Zhejiang Electric Power Co., Ltd., 5211JH1900M7.  
   大规模负荷资源参与需求响应的关键技术与商业模式研究, 国网浙江省电力公司, 2020-05至2022-12, 学生主研.
 
-Journal Reviewers
+Patents
 -----
-IEEE Trans. on Power Systems, IEEE Trans. on Smart Grid  
-Applied Energy, Energy  
-Protection and Control of Modern Power Systems  
-Scientific Reports  
-Engineering Reports  
++ 丁一, **漆淘懿**, 俞鸿飞, 欧阳欣愉, 钟奕楠, 季尚进; 一种多渠道的碳排放量综合监测方法, 2025-07-08, 中国, ZL202210811684.8.
++ 叶承晋, **漆淘懿**, 丁一, 宋永华, 方攸同; 基于变频空调和储能电池的复合储能控制方法, 2025-02-14, 中国, ZL202111412665.X.
++ 朱炳铨, 徐立中, **漆淘懿**, 郑翔, 蒙志全, 杨侃, 金学奇, 尹逊虎, 丁一; 一种需求侧负荷资源参与电网供需互动的优化方法, 2024-07-05, 中国, ZL202210220164.X
++ 朱炳铨, 谷炜, 项中明, 吴华华, 苏宜靖, 陆梦可, 阙凌燕, 崔建业, 马翔, 吕磊炎, 方璇, 黄剑峰, 刘东红, 吴敏敏, 姚剑峰, **漆淘懿**, 谢康, 丁一; 一种变频空调与储能电池联合的辅助服务方法及系统, 2022-07-26, 中国, ZL202110597127.6
+
 
