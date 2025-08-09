@@ -25,11 +25,10 @@ Education Experience
 + **08/2023-present, University of Macau**  
   Ph.D. in Electrical and Computer Engineering, Supervised by Prof. [Yonghua Song](https://rto.um.edu.mo/biography/) & Prof. [Hongxun Hui](https://www.fst.um.edu.mo/people/hongxunhui/)
 
-Part-time Academic Contributions
+Academic Services
 =====
 + Section Co-Lead for IEEEXtream 18.0, 2025.
 + Vice Chair, IEEE 7th Student Conference on Electric Machines and Systems (SCEMS), 2024.
-
 
 
 
