@@ -24,7 +24,7 @@ Research Interests
 + **Low-Carbon Cities and Energy**  
   Photovoltaics, energy storage, direct current systems, flexible buildings, and vehicle-to-grid interaction.
 
-Education Experience
+Education
 ======
 + **B.E. in Electrical Engineering**, Zhejiang University, Sep. 2016 – Jun. 2020  
   Supervisor: Prof. [Yi Ding](https://person.zju.edu.cn/110)
