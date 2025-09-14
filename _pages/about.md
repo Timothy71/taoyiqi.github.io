@@ -7,28 +7,36 @@ redirect_from:
   - /about.html
 ---
 
-Taoyi Qi is a Ph.D. candidate with the State Key Laboratory of Internet of Things for Smart City, University of Macau, supervised by Prof. Yonghua Song and co-supervised by Prof. Hongxun Hui. Previously, he recieved the B.E. and M.E. degrees in electrical engineering from Zhejiang University, Hangzhou, China, in 2020 and 2023, respectively.  
-Here are my CVs in [English](https://timothy71.github.io/taoyiqi.github.io/files/CV_in_English.pdf) and in [Chinese](https://timothy71.github.io/taoyiqi.github.io/files/CV_in_Chinese.pdf), respectively.
+Welcome! I’m Taoyi Qi, a Ph.D. candidate at the State Key Laboratory of Internet of Things for Smart City, University of Macau, working under the guidance of Prof. Yonghua Song and Prof. Hongxun Hui.  
+
+My research lies at the intersection of energy systems, climate goals, and smart city technologies. I am passionate about building low-carbon, resilient, and intelligent energy solutions that can help cities transition toward a sustainable future.
+
+Previously, I completed my B.E. and M.E. degrees in Electrical Engineering at Zhejiang University, Hangzhou, China (2020 and 2023), supervised by Prof. Yi Ding and Prof. Chengjin Ye.  
+
+You can explore my CV here: [English](https://timothy71.github.io/taoyiqi.github.io/files/CV_in_English.pdf) / [中文](https://timothy71.github.io/taoyiqi.github.io/files/CV_in_Chinese.pdf).
 
 Research Interests
 ======
-+ **Climate-Energy Coupling System**: Flexible Resource Endowment and Optimal Allocation; Low-Carbon Transformation Path Planning
-+ **Power Demand Side Management**: Flexible Load Modeling, Optimization, and Control; Market Mechanism Design
-+ **Low-Carbon Cities and Energy**: Photovoltaic, Energy Storage, Direct Current, and Flexibility Buildings; Vehicle-to-Grid Interaction
++ **Climate-Energy Coupling System**  
+  Flexible resource endowment, optimal allocation, and low-carbon transition pathway planning.
++ **Power Demand Side Management**  
+  Flexible load modeling, optimization, and control; market mechanism design.
++ **Low-Carbon Cities and Energy**  
+  Photovoltaics, energy storage, direct current systems, flexible buildings, and vehicle-to-grid interaction.
 
 Education Experience
 ======
-+ **09/2016-06/2020, Zhejiang University**  
-  Bachelor in Electrical Engineering, Supervised by Prof. [Yi Ding](https://person.zju.edu.cn/110)
-+ **09/2020-03/2023, Zhejiang Univeristy**  
-  Master in Electrical Engineering, Supervised by Prof. [Yi Ding](https://person.zju.edu.cn/110) & Prof. [Chengjin Ye](https://person.zju.edu.cn/0617209#0)
-+ **08/2023-present, University of Macau**  
-  Ph.D. in Electrical and Computer Engineering, Supervised by Prof. [Yonghua Song](https://rto.um.edu.mo/biography/) & Prof. [Hongxun Hui](https://www.fst.um.edu.mo/people/hongxunhui/)
++ **B.E. in Electrical Engineering**, Zhejiang University, Sep. 2016 – Jun. 2020  
+  Supervisor: Prof. [Yi Ding](https://person.zju.edu.cn/110)
++ **M.E. in Electrical Engineering**, Zhejiang University, Sep. 2020 – Mar. 2023  
+  Supervisors: Prof. [Yi Ding](https://person.zju.edu.cn/110) & [Chengjin Ye](https://person.zju.edu.cn/0617209#0)
++ **Ph.D. in Electrical and Computer Engineering**, University of Macau, Aug. 2023 – Present  
+  Supervisors: Prof. [Yonghua Song](https://rto.um.edu.mo/biography/) & Prof. [Hongxun Hui](https://www.fst.um.edu.mo/people/hongxunhui/)
 
 Academic Services
 =====
-+ Section Co-Lead for IEEEXtream 18.0, 2025.
-+ Vice Chair, IEEE 7th Student Conference on Electric Machines and Systems (SCEMS), 2024.
++ Section Co-Lead, **IEEEXtream 18.0**, 2025.
++ Vice Chair, **IEEE 7th Student Conference on Electric Machines and Systems (SCEMS)**, 2024.
 
 
 
