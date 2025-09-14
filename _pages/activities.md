@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
++ **[2025-09-02]** The 2nd International Summer School on IBR-dominated Power systems (第二届电力电子化电力系统运行与控制暑期学校)
 + **[2025-08-04]** The 1st Zhejiang-Macao Summer Youth Academic Research Tour (第一届浙澳青年学生暑期研学营)
 + **[2025-07-20]** Applied Energy Symposium and Forum: Low-Carbon Cities and Urban Energy Systems (CUE 2025). Presentation: Enhancing Power System Frequency Resilience to Extreme Weather through Photovoltaics and Integrated Flexible Direct Current Buildings
 + **[2025-04-27]** Doctoral Forum of 2025 IEEE International Symposium on the Application of Artificial Intelligence in Electrical Engineering (AAIEE 2025). Presentation: Exploring the Feasible Regulation Region of Building HVAC Systems within Hygro-Thermal Comforts
