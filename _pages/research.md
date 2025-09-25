@@ -11,7 +11,7 @@ redirect_from:
 
 Key Projects
 -----
-+ Demand Response Capacity Evaluation and Optimal Operation of Building Air Conditionings in Guangdong-Hong Kong-Macao Greater Bay Area under High Temperature and Humidity Conditions (2025-2026), supported by Natural Science Foundation of China, 524B2100, Priciple Investigator (**PI**).  
++ Demand Response Capacity Evaluation and Optimal Operation of Building Air Conditionings in Guangdong-Hong Kong-Macao Greater Bay Area under High Temperature and Humidity Conditions (2025-2026), supported by Natural Science Foundation of China, 524B2100, **Priciple Investigator**.  
   高温高湿环境下大湾区建筑空调电力需求响应容量评估及优化运行研究, 国家自然科学基金(青年学生基础研究项目(博士研究生)), 2025-01至2026-12, **项目负责人**.
 + Research on Key Technologies and Applications of Intelligent Collaborative Management and Protection for Integrated Energy Internet of Things (2021-2024), supported by the Science and Technology Development Fund, Macao, 0003/2020/AKP.  
   综合能源物联网的智能协同管控与防护关键技术及应用研究, 澳门科学技术发展基金, 澳门科学技术发展基金重点研发专项资助计划, 2021-10至2024-10, 参与.
@@ -39,8 +39,10 @@ Other Projects
 
 Standard Contributor
 -----
-+ Technical Specfications for Demand Side Management in Public Buildings (公共建筑电力需求侧管理系统技术标准(征求意见稿))
-+ Standard for Assessment of Load Flexibility Performance of Building Air Conditioning (建筑空调负荷柔性调节性能评价标准(征求意见稿))
++ Technical Specfications for Demand Side Management in Public Buildings  
+  公共建筑电力需求侧管理系统技术标准(征求意见稿)
++ Standard for Assessment of Load Flexibility Performance of Building Air Conditioning  
+  建筑空调负荷柔性调节性能评价标准(征求意见稿)
 
 Patents
 -----
