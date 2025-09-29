@@ -11,7 +11,7 @@ redirect_from:
 
 Journal Papers
 -----
-+ **T. Qi**, H. Hui, W. Feng, and Y. Song, "Flexible Resource Endowment of Urban Buildings Considering Climate Diversity in China," __*Carbon Neutrality*__, Accepted.
++ **T. Qi**, H. Hui, W. Feng, and Y. Song, "[Flexible Resource Endowment of Urban Buildings Considering Climate Diversity in China](https://link.springer.com/article/10.1007/s43979-025-00136-9)," __*Carbon Neutrality*__, vol. 4, no. 1, p. 22, Sep. 2025.
 
 + **T. Qi**, H. Hui, and Y. Song, "[Exploring the Feasible Regulation Region of Building HVAC Systems Within Hygro-Thermal Comfort](https://ieeexplore.ieee.org/abstract/document/11006322)," __*IEEE Transactions on Smart Grid*__, vol. 16, no. 4, pp. 2926-2939, July 2025.
 
