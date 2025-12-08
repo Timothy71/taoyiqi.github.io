@@ -46,14 +46,14 @@ Journal Papers
 
 Conference Papers
 -----
-+ **T. Qi**, H. Hui, and L. Gao, "Enhancing Power System Frequency Resilience to Extreme Weather through Photovoltaics and Integrated Flexible Direct Current Buildings," *Applied Energy Symposium and Forum: Low-Carbon Cities and Urban Energy Systems (CUE 2025)*, Kitakyusu, Japan, 2025.
++ **T. Qi**, H. Hui, and L. Gao, "[Enhancing Power System Frequency Resilience to Extreme Weather through Photovoltaics and Integrated Flexible Direct Current Buildings](https://www.energy-proceedings.org/wp-content/uploads/cue2025/1760238140.pdf#:~:text=The%20integration%20of%20emerging%20technologies%2C%20photovoltaics%2C%20energy%20storage%2C,and%20enhance%20power%20system%20resilience%20against%20extreme%20weather.)," *Applied Energy Symposium and Forum: Low-Carbon Cities and Urban Energy Systems (CUE 2025)*, Kitakyusu, Japan, 2025.
 
 + **T. Qi** and H. Hui, "[Bidding Mechanism of Aggregated Buildings with Various Flexible Loads Participating in Demand Response Market](https://ieeexplore.ieee.org/abstract/document/10513042)," *2023 IEEE 7th Conference on Energy Internet and Energy System Integration (EI2)*, Hangzhou, China, 2023, pp. 4391-4397.
 
 Journal Reviewers
 -----
 IEEE Trans. on Power Systems, IEEE Trans. on Smart Grid  
-Applied Energy, Energy  
+Applied Energy, Energy, Sustainable Energy, Grids and Networks
 Protection and Control of Modern Power Systems  
 Scientific Reports  
 Engineering Reports  
