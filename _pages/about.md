@@ -33,6 +33,13 @@ Education
 + **Ph.D. in Electrical and Computer Engineering**, University of Macau, Aug. 2023 – Present  
   Supervisors: Prof. [Yonghua Song](https://rto.um.edu.mo/biography/) & Prof. [Hongxun Hui](https://www.fst.um.edu.mo/people/hongxunhui/)
 
+Journal Reviewers
+=====
++ IEEE Trans. on Power Systems, IEEE Trans. on Smart Grid, IEEE Internet of Things Journal
++ Applied Energy, Energy, Sustainable Energy, Grids and Networks
++ Protection and Control of Modern Power Systems
++ Scientific Reports, Engineering Reports
+
 Academic Services
 =====
 + Section Co-Lead, **IEEEXtream 18.0**, 2025.
