@@ -36,7 +36,7 @@ Education
 Journal Reviewers
 =====
 + IEEE Trans. on Power Systems, IEEE Trans. on Smart Grid, IEEE Internet of Things Journal
-+ Applied Energy, Energy, Sustainable Energy, Grids and Networks
++ Applied Energy, Energy, Sustainable Energy, Grids and Networks, International Journal of Electrical Power and Energy Systems
 + Protection and Control of Modern Power Systems
 + Scientific Reports, Engineering Reports
 
