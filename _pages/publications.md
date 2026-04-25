@@ -11,8 +11,8 @@ redirect_from:
 
 Journal Papers
 -----
-+ Y. Sun, C. Ye, **T. Qi**, L. Xia, H. Hui, B. Shen, "Urban Electric Vehicle Hosting Capacity Evaluation under the Background of Traffic-Grid Coupling", __*Power System Protection and Control*__, accepted. [[PDF]({{ base_path }}/files/papers/2026-PSPC-EV-Hosting-Capacity.pdf)]  
-  孙雨乐, 叶承晋, **漆淘懿**, 夏霖, 惠红勋, 沈百强. 交通-电力耦合背景下的城市电动汽车承载力评估. __*电力系统保护与控制*__, 录用.
++ Y. Sun, C. Ye, **T. Qi**, L. Xia, H. Hui, B. Shen, "[Urban Electric Vehicle Hosting Capacity Evaluation under the Background of Traffic-Grid Coupling](https://doi.org/10.19783/j.cnki.pspc.251023)," __*Power System Protection and Control*__, vol. 54, no. 07, pp. 1-12, 2026. [[PDF]({{ base_path }}/files/papers/2026-PSPC-EV-Hosting-Capacity.pdf)]  
+  孙雨乐, 叶承晋, **漆淘懿**, 夏霖, 惠红勋, 沈百强. 交通-电力耦合背景下的城市电动汽车承载力评估. __*电力系统保护与控制*__, 2026, 54(07): 1-12.
 
 + **T. Qi**, H. Hui, W. Feng, and Y. Song, "[Flexible Resource Endowment of Urban Buildings Considering Climate Diversity in China](https://link.springer.com/article/10.1007/s43979-025-00136-9)," __*Carbon Neutrality*__, vol. 4, no. 1, p. 22, Sep. 2025. [[PDF]({{ base_path }}/files/papers/2025-CN-Flexible-Resource-Endowment.pdf)]
 
