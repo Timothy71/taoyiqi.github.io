@@ -13,7 +13,7 @@ My research lies at the intersection of energy systems, climate goals, and smart
 
 Previously, I completed my B.E. and M.E. degrees in Electrical Engineering at Zhejiang University, Hangzhou, China (2020 and 2023), supervised by Prof. Yi Ding and Prof. Chengjin Ye.  
 
-You can explore my CV here: [English](https://timothy71.github.io/taoyiqi.github.io/files/CV_in_English.pdf) / [中文](https://timothy71.github.io/taoyiqi.github.io/files/CV_in_Chinese.pdf).
+You can explore my CV here: [English](https://timothy71.github.io/taoyiqi.github.io/files/cv/CV_in_English.pdf) / [中文](https://timothy71.github.io/taoyiqi.github.io/files/cv/CV_in_Chinese.pdf).
 
 Research Interests
 ======
