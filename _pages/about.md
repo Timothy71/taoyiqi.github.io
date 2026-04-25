@@ -42,6 +42,7 @@ Journal Reviewers
 
 Academic Services
 =====
++ Session Chair, **Special Session 8: Optimal Operation and Planning Technology for Virtual Power Plants in the Market Environment**, 2026 11th Asia Conference on Power and Electrical Engineering (ACPEE 2026), Apr. 14-17, 2026, Macau & Zhuhai, China.
 + Section Co-Lead, **IEEEXtream 18.0**, 2025.
 + Vice Chair, **IEEE 7th Student Conference on Electric Machines and Systems (SCEMS)**, 2024.
 
